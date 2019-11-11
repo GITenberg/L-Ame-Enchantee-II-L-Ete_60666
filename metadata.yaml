@@ -1,5 +1,8 @@
 _repo: L-Ame-Enchantee-II-L-Ete_60666
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60666-h/images/rolland_cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60666#L-Ame-Enchantee-II-L-Ete
 gutenberg_issued: '2019-11-10'
 gutenberg_type: Text
 identifiers:
